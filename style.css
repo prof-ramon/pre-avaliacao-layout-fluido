@@ -67,6 +67,15 @@ aside {
     background-color: #ffd966;
 }
 
+aside img {
+    height: 30%;
+    width: 30%;
+    display: block;
+    margin: 5% auto;
+    border-radius: 50%;
+    border: #fa8638 .25em solid;
+}
+
 aside p {
     padding: 5%;
     text-align: justify;
